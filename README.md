@@ -8,6 +8,9 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 ## Response Index
 
-1. [Response 1: August 19th, 2020](Blumenstock-Article-Response.md)
+1. [8/25 - Blumenstock Article Response](Blumenstock-Article-Response.md)
 
+2. [8/28 - Rosling TED Talk Response](Rosling-Response.md)
+
+   
 
