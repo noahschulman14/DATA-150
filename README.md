@@ -12,9 +12,9 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 2. [8/28 - Rosling TED Talk Response](Rosling-Response.md)
 
-3. [9/3 - Rosling Ted Talk Questions](Hans Rosling Ted Talk Questions.md)
+3. [9/3 - Rosling Ted Talk Questions](Hans-Rosling-Ted-Talk-Questions.md)
 
-4. [9/3 - Development as Freedom Introduction Questions](Development as Freedom Introduction Questions.md)
+4. [9/3 - Development as Freedom Introduction Questions](Development-as-Freedom-Introduction-Questions.md)
 
    
 
