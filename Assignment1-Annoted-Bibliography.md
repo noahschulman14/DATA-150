@@ -1,5 +1,5 @@
 # Assignment 1 - Annotated Bibliography
-Noah Schulman
+Noah Schulman - 
 2,540 words
 
 1. Bhatt, B., & Joshi, J. P. (2013). A geospatial approach for assessing and modeling spatial accessibility of the primary health centers in the tribal talukas of the Vadodara district [Abstract]. *INTERNATIONAL JOURNAL OF GEOMATICS AND GEOSCIENCES,* *3*(3).
