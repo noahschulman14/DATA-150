@@ -18,7 +18,7 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 5. [9/17 - Human Development & Data Science Insights - Convolutional Neural Networks](DataScienceInsightsCNNs.md)
 
-6. [9/19 - Assignement 1 - Annotated Bibliography](Assignment1-Annotated-Bibliography.md)
+6. [9/19 - Assignment 1 - Annotated Bibliography](Assignment1-Annotated-Bibliography.md)
 
 
    
