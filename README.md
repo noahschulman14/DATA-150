@@ -20,6 +20,8 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 6. [9/19 - Assignment 1 - Annotated Bibliography](AssignmentOneAnnotatedBib.md)
 
+7. [9/29 - Kitchen/Anderson Arguments](KitchenAndersonArguments.md)
+
 
    
 
