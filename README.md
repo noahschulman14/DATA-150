@@ -22,6 +22,8 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 7. [9/29 - Kitchen/Anderson Arguments](KitchenAndersonArguments.md)
 
+8. [10/15 - Human Development & Data Science Insights 2](DataInsights2.md)
+
 
    
 
