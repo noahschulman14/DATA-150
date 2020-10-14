@@ -16,7 +16,7 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 4. [9/3 - Development as Freedom Introduction Questions](Development-as-Freedom-Introduction-Questions.md)
 
-5. [9/17 - Human Development & Data Science Insights - Convolutional Neural Networks](DataScienceInsightsCNNs.md)
+5. [9/17 - Human Development & Data Science Insights 1](DataScienceInsightsCNNs.md)
 
 6. [9/19 - Assignment 1 - Annotated Bibliography](AssignmentOneAnnotatedBib.md)
 
