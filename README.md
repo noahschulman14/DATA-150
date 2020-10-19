@@ -26,6 +26,8 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 9. [10/15 - Owen Barder Q&A](OwenBarderQuestions.md)
 
+10. [10/19 - Assignment 2 - Literature Review](LitReview.md)
+
 
    
 
