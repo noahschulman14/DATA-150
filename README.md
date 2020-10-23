@@ -28,6 +28,7 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 
 10. [10/19 - Assignment 2 - Literature Review](LitReview.md)
 
+11.[10/22 - Central Research Question - Type of Inquiry](Inquiry.md)
 
    
 
