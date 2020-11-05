@@ -31,5 +31,7 @@ Hi, welcome to my DATA-150 GitHub page! My name is Noah Schulman, I'm from Annap
 11. [10/22 - Central Research Question - Type of Inquiry](Inquiry.md)
 
 12. [10/27 - Theoretical Framework Question](theory.md)
+
+13. [11/5 - In Class Essay](inclassessay.md)
    
 
